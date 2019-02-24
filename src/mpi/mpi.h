@@ -19,8 +19,8 @@ namespace mpi
 
     enum MpiSign 
     {
-        kMpiZpos = 0, // positive integer
-        kMpiNeg  = 1, // negative
+        eMpiZpos = 0, // positive integer
+        eMpiNeg  = 1, // negative
     };
 
     class Mpi

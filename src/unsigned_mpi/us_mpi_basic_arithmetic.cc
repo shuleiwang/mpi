@@ -77,10 +77,17 @@ namespace us_mpi
           c = rst;
       }
 
-      void KaratsubaMul(const UsMpi &a, const UsMpi &b, UsMpi &c);
-      void ToomcookMul(const UsMpi &a, const UsMpi &b, UsMpi &c);
+      void KaratsubaMul(const UsMpi &a, const UsMpi &b, UsMpi &c)
+      {
+      }
 
-      void DivWithRemainder(const UsMpi &a, const UsMpi &b, UsMpi &q, UsMpi &r);
+      void ToomcookMul(const UsMpi &a, const UsMpi &b, UsMpi &c)
+      {
+      }
+
+      void DivWithRemainder(const UsMpi &a, const UsMpi &b, UsMpi &q, UsMpi &r)
+      {
+      }
     }
 
     /**************************************************************************/
