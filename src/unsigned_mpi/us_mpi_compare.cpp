@@ -1,5 +1,5 @@
 /******************************************************************************/
-//@File      us_mpi_compare.cc
+//@File      us_mpi_compare.cpp
 //@Brief     Multiple precesion integer arithmetic library.References from MPI 
 //@*****     and LibTomMath.
 //@Author    Shulei Wang, shulwang2g@gmail.com

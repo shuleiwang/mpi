@@ -1,15 +1,12 @@
 /******************************************************************************/
-//@File      test.cc
-//@Brief
+//@File      us_mpi.cpp
+//@Brief     Multiple precesion integer arithmetic library.References from MPI 
+//******     and LibTomMath.
 //@Author    Shulei Wang, shulwang2g@gmail.com
 //@License   The code is free for all purposes without any express guarantee 
 //@*******   it works.(Public Domain)
 /******************************************************************************/
 
-#include <iostream> 
-
-int main(void)
+namespace us_mpi
 {
-
-    return 0;
 }
